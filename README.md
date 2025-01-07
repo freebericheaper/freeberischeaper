@@ -1,2 +1,2 @@
 # freeberischeaper
-Profile repo
+Welcome to Freeberischeaper GitHub page
